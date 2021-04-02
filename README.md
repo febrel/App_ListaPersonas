@@ -5,4 +5,5 @@ Creada con JavaScript y Bootstrap
 https://febrel.github.io/App_ListaPersonas/
 
 ## Pantalla Inicio
-![image](https://user-images.githubusercontent.com/23177282/113455577-9f4c7200-93d0-11eb-84f3-01d147bc6f13.png)
+![image](https://user-images.githubusercontent.com/23177282/113456156-1cc4b200-93d2-11eb-8a6b-96c8ff0c87b1.png)
+
